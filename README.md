@@ -1,2 +1,1 @@
-# valorant-instalocker
-a instalocker for valorant using the valorant api(instalocking before game start)
+[README.md](https://github.com/tuvaldby111/valorant-instalocker/files/10951679/README.md)
