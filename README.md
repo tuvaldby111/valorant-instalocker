@@ -3,6 +3,9 @@
 
 A valorant instalocker using the valorant api
 
+
+# Update
+for now the releases tab doesnt work, - use this link to download bit.ly/VALocker
 ## Features
 
 - instalocking agents by maps
